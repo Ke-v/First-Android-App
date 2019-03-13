@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">RegisterApp</string>
+    <string name="enter_name">Ingiza Jina</string>
+    <string name="email">Ingiza Barua Pepe</string>
+    <string name="password">Siri</string>
+    <string name="phone">Nambari ya Simu</string>
+    <string name="date">Tarehe ya Kuzaliwa</string>
+    <string name="male">Mume</string>
+    <string name="female">Mke</string>
+    <string name="agree_to_terms_and_conditions">Kubaliana na Masharti na Sheria</string>
+    <string name="submit">Weka</string>
+</resources>

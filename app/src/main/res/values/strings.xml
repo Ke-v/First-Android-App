@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">RegisterApp</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="phone">Phone</string>
+    <string name="date">Date of Birth</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="agree_to_terms_and_conditions">Agree to Terms and Conditions</string>
+    <string name="submit">Submit</string>
+</resources>
